@@ -10,4 +10,3 @@ Em nossa opção de logar, temos como autenticar um usuário para ter acesso ao 
 Na tela de Gestão de usuários são apresentados usuários que estão cadastrados em nosso BD - MongoDB.
 Na mesma tela temos a opção de cadastrar um novo professor, caso necessário. Também podemos fazer edições na lista de usuários ja cadastrados, além de exclui-los.
 
-
