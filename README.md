@@ -13,3 +13,5 @@ Na mesma tela temos a opção de cadastrar um novo professor, caso necessário. 
 Dinâmica de execução do Projeto.
 
 Utilizamos o Google Drive como repositório de arquivos. A cada atualização no projeto, foram atualizados os arquivos de forma coordenada.
+
+.
